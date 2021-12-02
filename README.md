@@ -1,4 +1,4 @@
-# Naive-Bayes-Classifier
+# Naive Bayes Classifier
 
 ### Work-breakdown structure
 [Karyna Volokhatiuk](https://github.com/karyna-volokhatiuk) - `process_data`, `fit`;</br>
