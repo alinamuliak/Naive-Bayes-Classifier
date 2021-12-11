@@ -6,10 +6,7 @@
 [Olena Karaim](https://github.com/karakumm) - `score`, conclusions.
 
 ## Introduction
-During the past three weeks, you learned a couple of essential notions ant theorems.
-One of them is Bayes theorem.
-
-One of its applications is Naive Bayes classifier,
+One of Bayes theorem applications is Naive Bayes classifier,
 which is a probabilistic classifier whose aim is to determine which class some observation probably belongs by using the Bayes formula:
 
 `P(class∣observation)=P(observation∣class)P(class)/P(observation)`
